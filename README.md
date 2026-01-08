@@ -15,7 +15,6 @@ Professional and consistent document format
 
 Convenient and time-saving
 
-
 ---
 
 Developers
